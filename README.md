@@ -1,1 +1,2 @@
 # c-file-processing
+This is a file processing class project, taken during semester 5 undergraduate. This program is aimed to record people's data in a struct, also to manage the data. such as show, delete, add. In this program, the record method using a variable length, which the length of the data is adjust to the length of each record. Thus, it could save memory more than record it in a fixed length.
